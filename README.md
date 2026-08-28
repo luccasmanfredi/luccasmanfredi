@@ -1,11 +1,27 @@
+<div align="center">
+
+<pre>
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  C:\Users\Luccas> whoami                         │
+│                                                  │
+│  LUCCAS MANFREDI                                 │
+│  Desenvolvedor Backend em formação               │
+│  🎓 Estudante SENAI                              │
+│                                                  │
+│  C:\Users\Luccas> status                         │
+│  [████████████████░░░░] Learning...              │
+│                                                  │
+└──────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
 # 👋 Olá, eu sou Luccas Manfredi!
 
 💻 Desenvolvedor Backend em formação  
 🎓 Estudante SENAI  
 🇧🇷 Brasil
-
-Atualmente estou estudando desenvolvimento de software, com foco em
-programação backend, desenvolvimento web e construção de aplicações.
 
 ---
 
@@ -48,68 +64,18 @@ em projetos cada vez mais completos e profissionais.
 
 ## 📚 Atualmente estudando
 
-- 🐍 Python
-- ⚡ JavaScript
-- 🔙 Desenvolvimento Backend
-- 🌐 APIs
-- 🗄️ Banco de dados
-- 🔀 Git e GitHub
-- 🔌 ESP32 e IoT
-- 🧠 Lógica de programação
-
----
-
-## 🚀 Projetos
-
-### 🅿️ Cancela Shopping
-
-Sistema desenvolvido em Python para simular o funcionamento
-de um sistema de estacionamento.
-
-🔗 [Ver projeto](https://github.com/luccasmanfredi/Cancela_Shopping)
-
----
-
-### 🚗 Veloria Hyperlux
-
-Projeto de desenvolvimento web voltado para o segmento automotivo,
-com foco em interface, apresentação visual e experiência do usuário.
-
-🔗 [Ver projeto](https://github.com/luccasmanfredi/veloria-hyperlux)
-
----
-
-### 🛡️ Site Segurança
-
-Projeto web desenvolvido durante meus estudos, utilizando tecnologias
-de desenvolvimento front-end.
-
-🔗 [Ver projeto](https://github.com/luccasmanfredi/Site_Seguran-a)
-
----
-
-### 🚘 Veloria
-
-Projeto de desenvolvimento web relacionado ao segmento automotivo,
-utilizando tecnologias front-end.
-
-🔗 [Ver projeto](https://github.com/luccasmanfredi/veloria)
-
----
-
-## 🎯 Objetivos
-
-Atualmente meu foco é:
-
 ```text
-Aprender
-   ↓
-Praticar
-   ↓
-Criar projetos
-   ↓
-Melhorar meus códigos
-   ↓
-Construir experiência
-   ↓
-Me tornar um desenvolvedor profissional
+C:\Users\Luccas> learning
+
+[✓] Lógica de programação
+[✓] Python
+[✓] HTML
+[✓] CSS
+[✓] JavaScript
+[✓] Git & GitHub
+
+[~] Desenvolvimento Backend
+[~] APIs
+[~] Banco de dados
+[~] Node.js
+[~] ESP32 / IoT

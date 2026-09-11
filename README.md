@@ -1,14 +1,12 @@
-# 👋 Olá, eu sou Luccas Manfredi!
+<div align="center">
 
-💻 Desenvolvedor Backend em formação  
-🎓 Estudante SENAI  
-🇧🇷 Brasil
+# ⚡ **LUCCAS MANFREDI** ⚡
 
-Atualmente estou estudando desenvolvimento de software, com foco em
-programação backend, desenvolvimento web e construção de aplicações.
+### 💻 Desenvolvedor Backend em Formação
 
----
+**Estudante SENAI • Desenvolvimento de Sistemas**
 
+</div>
 ## 🚀 Sobre mim
 
 Sou estudante de desenvolvimento de software e estou construindo

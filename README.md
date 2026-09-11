@@ -1,11 +1,5 @@
 <div align="center">
-
-# ⚡ **LUCCAS MANFREDI** ⚡
-
-### 💻 Desenvolvedor Backend em Formação
-
-**Estudante SENAI • Desenvolvimento de Sistemas**
-
+    <img src="./assets/banner.png" width="100%" alt="Luccas Manfredi">
 </div>
 ## 🚀 Sobre mim
 

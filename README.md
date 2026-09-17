@@ -40,13 +40,13 @@
 <!-- ========================================================= -->
 <!--              03 — PERFIL DO DESENVOLVEDOR                 -->
 <!-- ========================================================= -->
-<h2 align="left">🕹️ Perfil do Desenvolvedor</h2>
+<h2 align="left"> Perfil do Desenvolvedor</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👤 Ficha do Personagem</h3>
-      <p><b>JOGADOR:</b> Luccas Manfredi</p>
+      <h3 align="center">👤 Ficha do Desenvolvedor</h3>
+      <p><b>Desenvolvedor:</b> Luccas Manfredi</p>
       <p><b>FUNÇÃO:</b> Desenvolvedor de Software em Formação</p>
       <p><b>ESPECIALIZAÇÃO:</b> Backend e Desenvolvimento Web</p>
       <p><b>INSTITUIÇÃO:</b> SENAI — Desenvolvimento de Sistemas</p>
@@ -325,7 +325,7 @@
   <a href="https://linkedin.com/in/luccasmanfredi/">
     <img src="https://img.shields.io/badge/LinkedIn-LUCCAS%20MANFREDI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/luccasmanfredi/">
+  <a href="https://www.instagram.com/luccasmanfredi_/">
     <img src="https://img.shields.io/badge/Instagram-@LUCCASMANFREDI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>

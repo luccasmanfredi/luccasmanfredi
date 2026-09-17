@@ -285,12 +285,9 @@
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=cyan_blitz&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117&cache_seconds=86400" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=cyan_blitz&hide_border=true&title_color=00E5FF&bg_color=0d1117&cache_seconds=86400" height="165" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=cyan_blitz&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0d1117&locale=pt-br&cache_seconds=86400" height="175" alt="Estatísticas do GitHub do Luccas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=cyan_blitz&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0d1117&locale=pt-br&cache_seconds=86400" height="175" alt="Linguagens Mais Utilizadas" />
 </div>
-
-<br>
-
 <!-- ========================================================= -->
 <!--           13 — GRÁFICO DE CONTRIBUIÇÕES                   -->
 <!-- ========================================================= -->

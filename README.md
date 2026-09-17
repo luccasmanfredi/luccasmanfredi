@@ -229,23 +229,23 @@
 <table width="100%">
   <tr>
     <td><b>Lógica & Python</b></td>
-    <td><img src="https://geps.dev/progress/90?dangerColor=00599C&warningColor=00E5FF&color=00E5FF" /></td>
+    <td><img src="https://img.shields.io/badge/DOMÍNIO-90%25-00E5FF?style=flat-square&logo=python&logoColor=0d1117" /></td>
   </tr>
   <tr>
     <td><b>JavaScript</b></td>
-    <td><img src="https://geps.dev/progress/80?dangerColor=00599C&warningColor=00E5FF&color=00E5FF" /></td>
+    <td><img src="https://img.shields.io/badge/DOMÍNIO-80%25-00E5FF?style=flat-square&logo=javascript&logoColor=0d1117" /></td>
   </tr>
   <tr>
     <td><b>Node.js & APIs</b></td>
-    <td><img src="https://geps.dev/progress/60?dangerColor=00599C&warningColor=00E5FF&color=00E5FF" /></td>
+    <td><img src="https://img.shields.io/badge/DOMÍNIO-60%25-00599C?style=flat-square&logo=nodedotjs&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Sistemas IoT (ESP32)</b></td>
-    <td><img src="https://geps.dev/progress/70?dangerColor=00599C&warningColor=00E5FF&color=00E5FF" /></td>
+    <td><img src="https://img.shields.io/badge/DOMÍNIO-70%25-00E5FF?style=flat-square&logo=espressif&logoColor=0d1117" /></td>
   </tr>
   <tr>
     <td><b>Git & Versionamento</b></td>
-    <td><img src="https://geps.dev/progress/95?dangerColor=00599C&warningColor=00E5FF&color=00E5FF" /></td>
+    <td><img src="https://img.shields.io/badge/DOMÍNIO-95%25-00E5FF?style=flat-square&logo=git&logoColor=0d1117" /></td>
   </tr>
 </table>
 
@@ -254,28 +254,14 @@
 <!-- ========================================================= -->
 <!--                    MÉTRICAS DO GITHUB                     -->
 <!-- ========================================================= -->
-<h2 align="left">📊 Estatísticas de Desempenho</h2>
+<h2 align="left">📊 Estatísticas & Atividade do GitHub</h2>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=cyan_blitz&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=cyan_blitz&hide_border=true&title_color=00E5FF&bg_color=0d1117"
-    height="170"
-    alt="Linguagens mais usadas"
-  />
-</div>
-
-<h3 align="left">📈 Gráfico de Atividades</h3>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luccasmanfredi&theme=github-compact&hide_border=true&area=true&color=00E5FF&line=00599C"
-    width="100%"
-    alt="Gráfico de Atividades"
-  />
+  <img src="https://streak-stats.demolab.com?user=luccasmanfredi&theme=cyan&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=cyan_blitz&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <hr>

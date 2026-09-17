@@ -297,7 +297,7 @@
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/profile-details?username=luccasmanfredi&theme=dark" width="100%" alt="Contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luccasmanfredi&bg_color=0D1117&color=00E5FF&line=00E5FF&point=00E5FF&area=true&area_color=00599C&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="100%" alt="Gráfico de Contribuições" />
 </p>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->

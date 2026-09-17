@@ -6,7 +6,7 @@
 <!-- 01 — HERO BANNER (ANIMADO) -->
 <p align="center">
   <a href="https://github.com/luccasmanfredi">
-    <img src="assets/banner/luccas-banner.gif" width="100%" alt="LUCCAS MANFREDI - Centro de Comando do Desenvolvedor" />
+    <img src="assets/banner/luccas-banner.png" width="100%" alt="LUCCAS MANFREDI - Centro de Comando do Desenvolvedor" />
   </a>
 </p>
 

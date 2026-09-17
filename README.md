@@ -285,20 +285,20 @@
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstme-rstmes-projects.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=cyan_blitz&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0d1117&locale=pt-br&v=2" height="175" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-git-masterrstme-rstmes-projects.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=cyan_blitz&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0d1117&locale=pt-br&v=2" height="175" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=cyan_blitz&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" height="175" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=cyan_blitz&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" height="175" alt="Linguagens Mais Utilizadas" />
 </div>
+
+<br>
+
 <!-- ========================================================= -->
 <!--           13 — GRÁFICO DE CONTRIBUIÇÕES                   -->
 <!-- ========================================================= -->
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luccasmanfredi&theme=github-compact&hide_border=true&area=true&color=00E5FF&line=00599C" width="100%" alt="Gráfico de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccasmanfredi&theme=cyan_blitz&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="100%" alt="Gráfico de Contribuições" />
 </p>
-
-<br>
-
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->
 <!-- ========================================================= -->

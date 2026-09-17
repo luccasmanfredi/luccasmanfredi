@@ -297,7 +297,7 @@
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luccasmanfredi&bg_color=0D1117&color=00E5FF&line=00E5FF&point=00E5FF&area=true&area_color=00599C&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="100%" alt="Gráfico de Contribuições" />
+  <img src="https://snake-gh-contrib-graph.vercel.app/api?username=luccasmanfredi&theme=dark&color=00E5FF&bg=0D1117" width="100%" alt="Gráfico de Contribuições do Luccas" />
 </p>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->

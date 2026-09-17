@@ -297,7 +297,7 @@
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccasmanfredi&theme=cyan_blitz&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="100%" alt="Gráfico de Contribuições" />
+  <img src="https://ghchart.rshah.org/00E5FF/luccasmanfredi" width="100%" alt="Gráfico de Contribuições do Luccas" />
 </p>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->

@@ -297,7 +297,7 @@
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luccasmanfredi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00E5FF&line=00E5FF&point=00599C" width="100%" alt="Gráfico de Contribuições" />
+  <img src="https://ghchart.rshah.org/00E5FF/luccasmanfredi" width="100%" alt="Gráfico de Contribuições do Luccas" />
 </p>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->

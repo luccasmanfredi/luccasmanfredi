@@ -297,7 +297,7 @@
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://snake-gh-contrib-graph.vercel.app/api?username=luccasmanfredi&theme=dark&color=00E5FF&bg=0D1117" width="100%" alt="Gráfico de Contribuições do Luccas" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/luccasmanfredi?chart=calendar&theme=dark&accent=00E5FF&background=0d1117" width="100%" alt="Gráfico de Contribuições do Luccas" />
 </p>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->

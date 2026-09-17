@@ -297,7 +297,7 @@
 <h2 align="left">📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/luccasmanfredi" width="100%" alt="Gráfico de Contribuições do Luccas" />
+  <img src="https://ghchart.rshah.org/00E5FF/luccasmanfredi?bg=0D1117" width="100%" alt="Gráfico de Contribuições do Luccas" />
 </p>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->

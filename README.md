@@ -1,103 +1,82 @@
+<!-- Header Animado com Gradiente -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Luccas%20Manfredi&fontSize=52&animation=twinkle&fontColor=58a6ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Luccas%20Manfredi&fontSize=60&animation=twinkle&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=22" width="100%" />
 </p>
 
+<!-- Efeito de Digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Backend+em+Forma%C3%A7%C3%A3o;Python+%E2%80%A2+JavaScript+%E2%80%A2+Node.js;IoT+%E2%80%A2+ESP32+%E2%80%A2+APIs+%E2%80%A2+Git" alt="Typing SVG" />
+  <a href="https://github.com/luccasmanfredi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=💻+Desenvolvedor+Backend;🚀+Foco+em+Python,+JavaScript+e+Node.js;🔌+Entusiasta+de+IoT+e+ESP32;🎓+Construindo+o+futuro+linha+por+linha" alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-## 🚀 Sobre mim
-Sou estudante de desenvolvimento de software e estou construindo minha experiência através de projetos práticos e atividades de programação.
-
-Tenho interesse principalmente em:
-- 🔧 **Desenvolvimento Backend**
-- 🌐 **Desenvolvimento Web**
-- 🐍 **Python**
-- ⚡ **JavaScript**
-- 🔌 **IoT e ESP32**
-- 🔀 **Git e GitHub**
-- 🗄️ **Banco de dados e APIs**
-
-Meu objetivo é continuar evoluindo e transformar meus conhecimentos em projetos cada vez mais completos e profissionais.
-
----
-
-## 🛠️ Tecnologias
-
-### 💻 Linguagens
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<!-- Contatos e Redes Sociais -->
+<p align="center">
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luccasmanfredi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-### 🔧 Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
+<br>
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de desenvolvimento de software, focado em construir minha experiência através de projetos práticos e resolução de problemas reais. Meu objetivo é transformar meus conhecimentos em aplicações completas, escaláveis e de alto nível profissional.
+
+**Meus principais interesses:**
+> 🔧 **Backend & Web:** Criação de sistemas robustos e APIs.  
+> 🐍 **Linguagens Base:** Python e JavaScript.  
+> 🔌 **Hardware & Automação:** Internet das Coisas (IoT) integrada com ESP32.  
 
 ---
 
-## 📚 Atualmente estudando
+## 📊 Minhas Estatísticas
 
-- 🐍 **Python**
-- ⚡ **JavaScript**
-- 🔙 **Desenvolvimento Backend**
-- 🌐 **APIs**
-- 🗄️ **Banco de dados**
-- 🔀 **Git e GitHub**
-- 🔌 **ESP32 e IoT**
-- 🧠 **Lógica de programação**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Estatísticas do Luccas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens Mais Usadas" />
+</div>
 
----
+<br>
 
-## 🚀 Projetos
+## 🛠️ Tecnologias e Ferramentas
 
-### 🅿️ Cancela Shopping
-Sistema desenvolvido em Python para simular o funcionamento de um sistema de estacionamento.  
-🔗 [Ver projeto](https://github.com/luccasmanfredi)
+Em vez de listas longas, aqui estão as tecnologias que eu utilizo e estudo atualmente:
 
-### 🚗 Veloria Hyperlux
-Projeto de desenvolvimento web voltado para o segmento automotivo, com foco em interface, apresentação visual e experiência do usuário.  
-🔗 [Ver projeto](https://github.com/luccasmanfredi)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,c,git,github,vscode,linux,arduino&perline=11" alt="Tech Stack" />
+  </a>
+</div>
 
-### 🛡️ Site Segurança
-Projeto web desenvolvido durante meus estudos, utilizando tecnologias de desenvolvimento front-end.  
-🔗 [Ver projeto](https://github.com/luccasmanfredi)
-
-### 🚘 Veloria
-Projeto de desenvolvimento web relacionado ao segmento automotivo, utilizando tecnologias front-end.  
-🔗 [Ver projeto](https://github.com/luccasmanfredi)
+*(Ícones: Python, JavaScript, Node.js, HTML, CSS, C/C++, Git, GitHub, VS Code, Linux e IoT)*
 
 ---
 
-## 🎯 Objetivos
+## 🚀 Projetos em Destaque
 
-Atualmente meu foco é:
+Aqui estão alguns dos projetos em que venho trabalhando:
+
+| 🏆 Projeto | 📝 Descrição | 🔗 Link |
+| :--- | :--- | :---: |
+| **🅿️ Cancela Shopping** | Sistema desenvolvido em Python para simular a lógica e o funcionamento de um estacionamento comercial. | [Ver Projeto](https://github.com/luccasmanfredi) |
+| **🚗 Veloria Hyperlux** | Aplicação web voltada para o mercado de carros de luxo, com alto foco em UI/UX e apresentação visual. | [Ver Projeto](https://github.com/luccasmanfredi) |
+| **🛡️ Site Segurança** | Interface web front-end desenvolvida durante meus estudos com foco em segurança da informação. | [Ver Projeto](https://github.com/luccasmanfredi) |
+| **🚘 Veloria** | Projeto front-end para o segmento automotivo geral, explorando boas práticas de design e responsividade. | [Ver Projeto](https://github.com/luccasmanfredi) |
+
+---
+
+## 🎯 Minha Jornada Profissional
+
+O caminho que sigo para me tornar um desenvolvedor de excelência:
 
 <p align="center">
-  <b>Aprender</b><br>
-  ↓<br>
-  <b>Praticar</b><br>
-  ↓<br>
-  <b>Criar projetos</b><br>
-  ↓<br>
-  <b>Melhorar meus códigos</b><br>
-  ↓<br>
-  <b>Construir experiência</b><br>
-  ↓<br>
-  <b>Me tornar um desenvolvedor profissional</b>
+  <b>Aprender 📖 ➔ Praticar 💻 ➔ Criar Projetos 🛠️ ➔ Refatorar 📈 ➔ Construir Experiência 💼 ➔ Profissional 🏆</b>
 </p>
 
 ---
 
+<!-- Rodapé Animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=120&section=footer" width="100%" />
 </p>

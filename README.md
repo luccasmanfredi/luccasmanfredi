@@ -227,11 +227,12 @@
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&bg_color=0d1117" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-git-masterrstme-rstmes-projects.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117&cache_seconds=86400" alt="Estatísticas do GitHub" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstme-rstmes-projects.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&bg_color=0d1117&cache_seconds=86400" alt="Linguagens Mais Utilizadas" />
+</p>
 
 <!-- ========================================================= -->
 <!--                        CONTATO                            -->

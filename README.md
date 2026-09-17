@@ -1,47 +1,40 @@
-<!-- Header Animado com Gradiente -->
+<!-- Header Animado em Azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Luccas%20Manfredi&fontSize=60&animation=twinkle&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00599C,100:0d1117&height=220&section=header&text=Luccas%20Manfredi&fontSize=52&animation=twinkle&fontColor=58a6ff&desc=Desenvolvedor%20Backend%20em%20Forma%C3%A7%C3%A3o&descSize=20&descAlignY=65" width="100%" />
 </p>
 
-<!-- Efeito de Digitação -->
+<!-- Efeito de Digitação (Azul) -->
 <p align="center">
   <a href="https://github.com/luccasmanfredi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=💻+Desenvolvedor+Backend;🚀+Foco+em+Python,+JavaScript+e+Node.js;🔌+Entusiasta+de+IoT+e+ESP32;🎓+Construindo+o+futuro+linha+por+linha" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=💻+Desenvolvedor+Backend;🚀+Foco+em+Python,+JavaScript+e+Node.js;🔌+Entusiasta+de+IoT+e+ESP32;🎓+Construindo+o+futuro+linha+por+linha" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Contatos e Redes Sociais -->
+<!-- Contador de Views do Perfil -->
 <p align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luccasmanfredi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://komarev.com/ghpvc/?username=luccasmanfredi&label=Visualizações+do+Perfil&color=00599C&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<!-- Contatos e Redes Sociais (Estilizados no tema) -->
+<p align="center">
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" target="_blank"></a>
+  <a href="https://www.instagram.com/luccasmanfredi/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" target="_blank"></a>
 </p>
 
 <br>
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de desenvolvimento de software, focado em construir minha experiência através de projetos práticos e resolução de problemas reais. Meu objetivo é transformar meus conhecimentos em aplicações completas, escaláveis e de alto nível profissional.
+Sou estudante de desenvolvimento de software, apaixonado por tecnologia e focado em construir minha experiência através de projetos práticos. Meu objetivo é evoluir constantemente, transformando lógica de programação em soluções reais, escaláveis e com código limpo.
 
-**Meus principais interesses:**
-> 🔧 **Backend & Web:** Criação de sistemas robustos e APIs.  
-> 🐍 **Linguagens Base:** Python e JavaScript.  
-> 🔌 **Hardware & Automação:** Internet das Coisas (IoT) integrada com ESP32.  
+- 🎓 **Educação:** Estudante no SENAI (Limeira - SP).
+- 💡 **Interesses:** Desenvolvimento Web, APIs, Banco de Dados e Internet das Coisas (IoT).
+- 🌱 **Atualmente focado em:** Aprimorar habilidades no ecossistema Backend (Python/Node.js).
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Estatísticas do Luccas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens Mais Usadas" />
-</div>
-
-<br>
-
 ## 🛠️ Tecnologias e Ferramentas
-
-Em vez de listas longas, aqui estão as tecnologias que eu utilizo e estudo atualmente:
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -49,34 +42,42 @@ Em vez de listas longas, aqui estão as tecnologias que eu utilizo e estudo atua
   </a>
 </div>
 
-*(Ícones: Python, JavaScript, Node.js, HTML, CSS, C/C++, Git, GitHub, VS Code, Linux e IoT)*
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <!-- Status e Linguagens (Cores Customizadas) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=luccasmanfredi&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" height="160" alt="Estatísticas do Luccas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmanfredi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160" alt="Linguagens Mais Usadas" />
+</div>
+
+<div align="center">
+  <!-- GitHub Streak (Mostra sua constância de commits) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccasmanfredi&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&background=0d1117" height="160" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos em que venho trabalhando:
-
 | 🏆 Projeto | 📝 Descrição | 🔗 Link |
 | :--- | :--- | :---: |
-| **🅿️ Cancela Shopping** | Sistema desenvolvido em Python para simular a lógica e o funcionamento de um estacionamento comercial. | [Ver Projeto](https://github.com/luccasmanfredi) |
-| **🚗 Veloria Hyperlux** | Aplicação web voltada para o mercado de carros de luxo, com alto foco em UI/UX e apresentação visual. | [Ver Projeto](https://github.com/luccasmanfredi) |
-| **🛡️ Site Segurança** | Interface web front-end desenvolvida durante meus estudos com foco em segurança da informação. | [Ver Projeto](https://github.com/luccasmanfredi) |
-| **🚘 Veloria** | Projeto front-end para o segmento automotivo geral, explorando boas práticas de design e responsividade. | [Ver Projeto](https://github.com/luccasmanfredi) |
+| **🅿️ Cancela Shopping** | Sistema em Python que simula o funcionamento de um estacionamento comercial, com lógica de entrada e saída. | [Ver Projeto](https://github.com/luccasmanfredi/Cancela-Shopping) |
+| **🚗 Veloria Hyperlux** | Interface web premium para o mercado de carros de luxo. Foco total em UI/UX e apresentação visual imersiva. | [Ver Projeto](https://github.com/luccasmanfredi) |
+| **🛡️ Site Segurança** | Projeto front-end voltado para práticas de segurança da informação e estruturação web. | [Ver Projeto](https://github.com/luccasmanfredi) |
+| **🚘 Veloria** | Site automotivo responsivo e estilizado, aplicando boas práticas de desenvolvimento web moderno. | [Ver Projeto](https://github.com/luccasmanfredi) |
 
 ---
 
-## 🎯 Minha Jornada Profissional
+## 🎯 Minha Jornada
 
-O caminho que sigo para me tornar um desenvolvedor de excelência:
+<div align="center">
+  <!-- Linha do tempo animada -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Aprender+📖+➔+Praticar+💻+➔+Criar+Projetos+🛠️+➔+Construir+Experiência+💼+➔+Profissional+🏆" alt="Jornada" />
+</div>
 
+<!-- Rodapé Animado em Azul -->
 <p align="center">
-  <b>Aprender 📖 ➔ Praticar 💻 ➔ Criar Projetos 🛠️ ➔ Refatorar 📈 ➔ Construir Experiência 💼 ➔ Profissional 🏆</b>
-</p>
-
----
-
-<!-- Rodapé Animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00599C,100:0d1117&height=120&section=footer" width="100%" />
 </p>

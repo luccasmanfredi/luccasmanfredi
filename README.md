@@ -294,11 +294,11 @@
 <!-- ========================================================= -->
 <!--           13 — GRÁFICO DE CONTRIBUIÇÕES                   -->
 <!-- ========================================================= -->
-<h2 align="left">📈 Gráfico de Contribuições</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/luccasmanfredi" width="100%" alt="Gráfico de Contribuições do Luccas" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luccasmanfredi/luccasmanfredi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luccasmanfredi/luccasmanfredi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/luccasmanfredi/luccasmanfredi/output/github-contribution-grid-snake.svg">
+</picture>
 <!-- ========================================================= -->
 <!--            14 — FILOSOFIA DE DESENVOLVIMENTO              -->
 <!-- ========================================================= -->
